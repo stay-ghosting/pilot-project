@@ -1,7 +1,7 @@
-export default function images() {
+export default function Images() {
     return (
         <>
-            <div className="parent" width="100%" height="300px">
+            <div className="parent" width="100%" height="50">
                 <div class="col-span-4 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <a href="#">
                         <img className="Image1"

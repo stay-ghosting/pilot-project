@@ -10,7 +10,7 @@ export default function Navbar() {
             <a href="/images">Images</a>
           </li>
           <li>
-            <a href="/toDoList">To Do list</a>
+            <a href="/todosList">To Do list</a>
           </li>
           <li>
             <a href="/about">About</a>
